@@ -1,6 +1,6 @@
 ---
 name: Report a problem
-about: Something in Speakit isn't working as expected
+about: Something in SayLens isn't working as expected
 title: ""
 labels: bug
 ---
@@ -15,4 +15,4 @@ labels: bug
 
 **iPhone model and iOS version**
 
-**Speakit version** (Settings → bottom of the screen)
+**SayLens version** (Settings → bottom of the screen)

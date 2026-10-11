@@ -1,9 +1,9 @@
-# Speakit
+# SayLens
 
-Website, privacy policy and support for **Speakit**, an iPhone app.
+Website, privacy policy and support for **SayLens**, an iPhone app.
 
-- Website: https://mishmashdude.github.io/speakit/
-- Privacy policy: https://mishmashdude.github.io/speakit/privacy.html
-- Support: https://mishmashdude.github.io/speakit/support.html
+- Website: https://mishmashdude.github.io/saylens/
+- Privacy policy: https://mishmashdude.github.io/saylens/privacy.html
+- Support: https://mishmashdude.github.io/saylens/support.html
 
-Questions, bugs or ideas? [Open an issue](https://github.com/mishmashdude/speakit/issues/new/choose).
+Questions, bugs or ideas? [Open an issue](https://github.com/mishmashdude/saylens/issues/new/choose).
