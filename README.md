@@ -2,8 +2,8 @@
 
 Website, privacy policy and support for **SayLens**, an iPhone app.
 
-- Website: https://mishmashdude.github.io/saylens/
-- Privacy policy: https://mishmashdude.github.io/saylens/privacy.html
-- Support: https://mishmashdude.github.io/saylens/support.html
+- Website: https://speakit.keebbuddy.com/
+- Privacy policy: https://speakit.keebbuddy.com/privacy.html
+- Support: https://speakit.keebbuddy.com/support.html
 
 Questions, bugs or ideas? [Open an issue](https://github.com/mishmashdude/saylens/issues/new/choose).
